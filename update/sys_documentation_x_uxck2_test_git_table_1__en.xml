@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="course_description" label="Course Description" language="en" table="x_uxck2_test_git_courses">
+    <sys_documentation element="" label="Table 1" language="en" table="x_uxck2_test_git_table_1">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>course_description</element>
+            <element/>
             <help/>
             <hint/>
-            <label>Course Description</label>
+            <label>Table 1</label>
             <language>en</language>
-            <name>x_uxck2_test_git_courses</name>
-            <plural>Course Descriptions</plural>
+            <name>x_uxck2_test_git_table_1</name>
+            <plural>Table 1s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-26 06:03:36</sys_created_on>
-            <sys_id>9e364843dbdda74089cd456a3a9619e9</sys_id>
+            <sys_created_on>2018-10-26 06:19:46</sys_created_on>
+            <sys_id>c3e94c07dbdda74089cd456a3a96196b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Course Description</sys_name>
+            <sys_name>Table 1</sys_name>
             <sys_package display_value="Test Git" source="x_uxck2_test_git">754588cfdb9da74089cd456a3a961927</sys_package>
             <sys_policy/>
             <sys_scope display_value="Test Git">754588cfdb9da74089cd456a3a961927</sys_scope>
-            <sys_update_name>sys_documentation_x_uxck2_test_git_courses_course_description_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_uxck2_test_git_table_1__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-26 06:03:36</sys_updated_on>
+            <sys_updated_on>2018-10-26 06:19:46</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

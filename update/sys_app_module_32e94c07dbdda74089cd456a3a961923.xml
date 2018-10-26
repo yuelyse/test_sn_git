@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Courses">e6c54443dbdda74089cd456a3a961904</application>
+        <application display_value="Table 1">3ae94c07dbdda74089cd456a3a961920</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -12,31 +12,31 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Courses</mobile_title>
+        <mobile_title>Table 1s</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_uxck2_test_git_courses</name>
+        <name>x_uxck2_test_git_table_1</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_uxck2_test_git.courses_user</roles>
+        <roles>x_uxck2_test_git.table_1_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-26 06:01:43</sys_created_on>
+        <sys_created_on>2018-10-26 06:19:45</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>fec54443dbdda74089cd456a3a961906</sys_id>
+        <sys_id>32e94c07dbdda74089cd456a3a961923</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Courses</sys_name>
+        <sys_name>Table 1s</sys_name>
         <sys_overrides/>
         <sys_package display_value="Test Git" source="x_uxck2_test_git">754588cfdb9da74089cd456a3a961927</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test Git">754588cfdb9da74089cd456a3a961927</sys_scope>
-        <sys_update_name>sys_app_module_fec54443dbdda74089cd456a3a961906</sys_update_name>
+        <sys_update_name>sys_app_module_32e94c07dbdda74089cd456a3a961923</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-26 06:01:43</sys_updated_on>
+        <sys_updated_on>2018-10-26 06:19:45</sys_updated_on>
         <timeline_page/>
-        <title>Courses</title>
+        <title>Table 1s</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

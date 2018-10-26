@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_documentation element="course_name" label="Course Name" language="en" table="x_uxck2_test_git_courses">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>course_name</element>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Table 1" max_length="40" name="x_uxck2_test_git_table_1" type="collection"/>
+</database>

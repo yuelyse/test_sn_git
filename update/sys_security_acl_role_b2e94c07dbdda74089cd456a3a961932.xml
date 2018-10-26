@@ -3,18 +3,18 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-26 06:01:44</sys_created_on>
-        <sys_id>3ec54443dbdda74089cd456a3a961927</sys_id>
+        <sys_created_on>2018-10-26 06:19:45</sys_created_on>
+        <sys_id>b2e94c07dbdda74089cd456a3a961932</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_uxck2_test_git_courses.x_uxck2_test_git.courses_user</sys_name>
+        <sys_name>x_uxck2_test_git_table_1.x_uxck2_test_git.table_1_user</sys_name>
         <sys_package display_value="Test Git" source="x_uxck2_test_git">754588cfdb9da74089cd456a3a961927</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test Git">754588cfdb9da74089cd456a3a961927</sys_scope>
-        <sys_security_acl display_value="x_uxck2_test_git_courses">36c54443dbdda74089cd456a3a961925</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_3ec54443dbdda74089cd456a3a961927</sys_update_name>
+        <sys_security_acl display_value="x_uxck2_test_git_table_1">bae94c07dbdda74089cd456a3a96192f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b2e94c07dbdda74089cd456a3a961932</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-26 06:01:44</sys_updated_on>
-        <sys_user_role display_value="x_uxck2_test_git.courses_user" name="x_uxck2_test_git.courses_user">e6c584cfdb9da74089cd456a3a961986</sys_user_role>
+        <sys_updated_on>2018-10-26 06:19:45</sys_updated_on>
+        <sys_user_role display_value="x_uxck2_test_git.table_1_user" name="x_uxck2_test_git.table_1_user">7ae988c3dbdda74089cd456a3a96197a</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
         <role display_value="x_uxck2_test_git.courses_user" name="x_uxck2_test_git.courses_user">e6c584cfdb9da74089cd456a3a961986</role>
