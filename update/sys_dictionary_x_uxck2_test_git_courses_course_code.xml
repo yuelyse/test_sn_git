@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-26 06:02:15</sys_created_on>
-        <sys_id>35380047db1123006122e04a4896196c</sys_id>
+        <sys_id>8a9a080bdb1123006122e04a4896196c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Course Code</sys_name>
         <sys_package display_value="Test Git" source="x_uxck2_test_git">754588cfdb9da74089cd456a3a961927</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Test Git">754588cfdb9da74089cd456a3a961927</sys_scope>
         <sys_update_name>sys_dictionary_x_uxck2_test_git_courses_course_code</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-10-26 06:12:18</sys_updated_on>
+        <sys_updated_on>2018-10-26 06:22:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

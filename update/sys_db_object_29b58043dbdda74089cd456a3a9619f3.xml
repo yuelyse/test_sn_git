@@ -5,7 +5,7 @@
         <alter_access>false</alter_access>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
-        <create_access>false</create_access>
+        <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
         <extension_model/>
@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-26 06:01:43</sys_created_on>
         <sys_id>29b58043dbdda74089cd456a3a9619f3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Courses</sys_name>
         <sys_package display_value="Test Git" source="x_uxck2_test_git">754588cfdb9da74089cd456a3a961927</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test Git">754588cfdb9da74089cd456a3a961927</sys_scope>
         <sys_update_name>sys_db_object_29b58043dbdda74089cd456a3a9619f3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-26 06:01:43</sys_updated_on>
+        <sys_updated_on>2018-10-26 06:22:12</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="x_uxck2_test_git.courses_user" name="x_uxck2_test_git.courses_user">e6c584cfdb9da74089cd456a3a961986</user_role>
         <ws_access>true</ws_access>

@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_uxck2_test_git_courses</name>
+        <name>x_uxck2_test_git_table_2</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-26 06:01:44</sys_created_on>
-        <sys_id>f9380047db1123006122e04a48961983</sys_id>
+        <sys_created_on>2018-10-26 06:20:09</sys_created_on>
+        <sys_id>4a9a080bdb1123006122e04a48961994</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_uxck2_test_git_courses</sys_name>
+        <sys_name>x_uxck2_test_git_table_2</sys_name>
         <sys_package display_value="Test Git" source="x_uxck2_test_git">754588cfdb9da74089cd456a3a961927</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test Git">754588cfdb9da74089cd456a3a961927</sys_scope>
-        <sys_update_name>ua_table_licensing_config_f9380047db1123006122e04a48961983</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_4a9a080bdb1123006122e04a48961994</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-26 06:01:44</sys_updated_on>
+        <sys_updated_on>2018-10-26 06:20:09</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>
