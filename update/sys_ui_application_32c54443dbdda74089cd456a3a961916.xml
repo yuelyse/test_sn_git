@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Courses</name>
+        <order/>
+        <roles>x_uxck2_test_git.courses_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-26 06:01:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>32c54443dbdda74089cd456a3a961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Courses</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Git" source="x_uxck2_test_git">754588cfdb9da74089cd456a3a961927</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Git">754588cfdb9da74089cd456a3a961927</sys_scope>
+        <sys_update_name>sys_ui_application_32c54443dbdda74089cd456a3a961916</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-26 06:01:43</sys_updated_on>
+    </sys_ui_application>
+</record_update>

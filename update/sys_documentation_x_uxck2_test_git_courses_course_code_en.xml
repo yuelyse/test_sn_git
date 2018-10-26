@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="course_code" label="Course Code" language="en" table="x_uxck2_test_git_courses">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>course_code</element>
+            <help/>
+            <hint/>
+            <label>Course Code</label>
+            <language>en</language>
+            <name>x_uxck2_test_git_courses</name>
+            <plural>Course Codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-26 06:02:15</sys_created_on>
+            <sys_id>12e50403dbdda74089cd456a3a961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Course Code</sys_name>
+            <sys_package display_value="Test Git" source="x_uxck2_test_git">754588cfdb9da74089cd456a3a961927</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Git">754588cfdb9da74089cd456a3a961927</sys_scope>
+            <sys_update_name>sys_documentation_x_uxck2_test_git_courses_course_code_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-26 06:02:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
