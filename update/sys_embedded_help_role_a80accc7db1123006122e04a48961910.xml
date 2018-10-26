@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_uxck2_test_git.table_2_user" name="x_uxck2_test_git.table_2_user">e00accc7db1123006122e04a4896190e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-26 06:20:07</sys_created_on>
+        <sys_id>a80accc7db1123006122e04a48961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e00accc7db1123006122e04a4896190e</sys_name>
+        <sys_package display_value="Test Git" source="x_uxck2_test_git">754588cfdb9da74089cd456a3a961927</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Git">754588cfdb9da74089cd456a3a961927</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a80accc7db1123006122e04a48961910</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-26 06:20:07</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

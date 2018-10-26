@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Table 2" language="en" table="x_uxck2_test_git_table_2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Table 2</label>
+            <language>en</language>
+            <name>x_uxck2_test_git_table_2</name>
+            <plural>Table 2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-26 06:20:08</sys_created_on>
+            <sys_id>740accc7db1123006122e04a4896193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table 2</sys_name>
+            <sys_package display_value="Test Git" source="x_uxck2_test_git">754588cfdb9da74089cd456a3a961927</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Git">754588cfdb9da74089cd456a3a961927</sys_scope>
+            <sys_update_name>sys_documentation_x_uxck2_test_git_table_2__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-26 06:20:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
